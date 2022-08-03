@@ -20,7 +20,12 @@
 <img align="left" alt="Visual Studio Code" width="28px" src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png" />
 
 <br />
-<br />
+
+### Support Me 💖
+- <a href="https://www.buymeacoffee.com/shapovalbohdan"> Buy a coffee</a>
+
+
+
 
 <details>
   <summary>:zap: Statistics:</summary>
